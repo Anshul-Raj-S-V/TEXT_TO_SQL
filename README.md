@@ -1,10 +1,6 @@
 ## Text-to-SQL App 🧠 
 
-  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQLite-3-lightgrey.svg" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/LangChain-Framework-green.svg" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Groq-LLM-orange.svg" alt="Groq"/>
-  <img src="https://img.shields.io/badge/dotenv-Environment%20Variables-blue.svg" alt="dotenv"/>
+  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python"/><img src="https://img.shields.io/badge/SQLite-3-lightgrey.svg" alt="SQLite"/><img src="https://img.shields.io/badge/LangChain-Framework-green.svg" alt="LangChain"/><img src="https://img.shields.io/badge/Groq-LLM-orange.svg" alt="Groq"/><img src="https://img.shields.io/badge/dotenv-Environment%20Variables-blue.svg" alt="dotenv"/>
 
 > 🧩 Convert natural language queries into SQL commands and retrieve results directly from a SQLite database using **Llama 3.3 via Groq**.
 
