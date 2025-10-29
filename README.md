@@ -1,8 +1,8 @@
 ## Text-to-SQL App 🧠 
 
-  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python"/><img src="https://img.shields.io/badge/SQLite-3-lightgrey.svg" alt="SQLite"/><img src="https://img.shields.io/badge/LangChain-Framework-green.svg" alt="LangChain"/><img src="https://img.shields.io/badge/Groq-LLM-orange.svg" alt="Groq"/><img src="https://img.shields.io/badge/dotenv-Environment%20Variables-blue.svg" alt="dotenv"/>
+  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python"/> <img src="https://img.shields.io/badge/SQLite-3-lightgrey.svg" alt="SQLite"/> <img src="https://img.shields.io/badge/LangChain-Framework-green.svg" alt="LangChain"/> <img src="https://img.shields.io/badge/Groq-LLM-orange.svg" alt="Groq"/> <img src="https://img.shields.io/badge/dotenv-Environment%20Variables-blue.svg" alt="dotenv"/>
 
-> 🧩 Convert natural language queries into SQL commands and retrieve results directly from a SQLite database using **Llama 3.3 via Groq**.
+🧩 Convert natural language queries into SQL commands and retrieve results directly from a SQLite database using **Llama 3.3 via Groq**.
 
 ---
 
@@ -134,8 +134,11 @@ pip install langchain langchain-groq langchain-core python-dotenv sqlite3
 ## ⚡ Features
 
 ✅ Converts natural language to valid SQL queries
+
 ✅ Powered by Llama 3.3 via Groq for precise conversions
+
 ✅ Simple local setup with SQLite
+
 ✅ Easily extendable to other databases
 
 ---
@@ -143,7 +146,9 @@ pip install langchain langchain-groq langchain-core python-dotenv sqlite3
 ## 🧰 Future Enhancements
 
 🚧 Add support for MySQL and PostgreSQL
+
 🤖 Integrate visual result dashboards
+
 🧮 Include query optimization suggestions
 
 ---
